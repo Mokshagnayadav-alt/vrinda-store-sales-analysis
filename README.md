@@ -71,7 +71,7 @@ The repository contains:
 
 ## Dashboard Preview
 
-(![Dashboard](Images/dashboard.png))
+![Dashboard](Images/dashboard.png)
 
 ## Author
 
